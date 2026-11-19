@@ -1,0 +1,241 @@
+body{
+    margin: 0px;
+    background-color: white;
+    font-family: Instagram Sans Regular !important;
+    padding: 0px;
+}
+
+
+.logo{
+    height: 110px;
+    width: 100px;
+    padding: 50px 0px 0px 50px;
+    gap: 0px;
+    margin: 0px;
+}
+
+.heading{
+    display: flex;
+    flex-direction: left;
+    padding: 0px 0px 0px 40px;
+    font-weight: 400px;
+    margin: 0px;
+    gap: 0px;
+}
+
+.notes{
+    background: linear-gradient(to right,
+    rgba(255, 0, 105, 1),
+    rgba(211, 0, 197, 1));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+#h1{
+    padding: 0px 0px 50px 150px;
+}
+
+.gap{
+    display: flex;
+    gap: 20px;
+    padding: 0px 0px 0px 150px;
+}
+
+.img{
+    height: 320px;
+    width: 300px;
+    display: block;
+    margin-left: 150px;
+    margin-top: -95px;
+    padding: 10px 10px 110px;
+}
+
+.main-container{
+    display: flex;
+    align-items: flex-start;
+   
+}
+
+.vertical-line{
+    width: 1px;
+    height: 685px;
+    background-color: #d3d3d3;
+    margin: 0 50px;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+}
+
+.login-info{
+    font-size: 20px;
+    font-weight: 500px;
+    padding: 50px 0px 0px 0px;
+    display: flex;
+    justify-content: column;
+}
+
+.input-fields{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.full-width{
+    width: 120%;
+    margin-bottom: 15px;
+}
+    
+.input-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;    
+    padding: 15px 0px 0px 0px;
+}
+
+
+.full-width input{
+    width: 135%;
+    padding: 25px;
+    border: 1px solid #dbdbdb;
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.button-div{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    width: 125%;
+    margin-top: 0px;
+}
+
+.login-btn{
+    background-color: lightblue;
+    color: white;
+    border: 0px;
+    padding: 10px 55px;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    width: 200%;
+}
+
+.full-width{
+    width: 95%;
+}
+
+.fgp-btn{
+    background-color: white;
+    color: black;
+    border: 1px;
+    padding: 10px 55px;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    width: 100%;
+}
+
+.right-section{
+    width: 450px;
+    margin: 0px;
+}
+
+.facebook-btn{
+    background-color:  white;
+    color: black;
+    border: 1px solid #dbdbdb;
+    padding: 10px 55px;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    width: 140%;
+}
+
+.acc-btn{
+    background-color:  white;
+    color: blue;
+    border: 1px solid blue;
+    padding: 10px 55px;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    width: 140%;
+}
+
+.meta-btn{
+    background-color:  white;
+    color: rgb(29, 28, 28);
+    border: 1px solid white;
+    padding: 10px 55px 45px ;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    width: 140%;
+}
+
+.horizontal-line{
+    width: 225%;
+}
+
+.call-todo-action{
+    padding: 15px 150px 0px 120px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: smaller;
+    background-color: white;
+    color: white;
+    margin-top: 0px;
+}
+a{
+    color: rgb(173, 166, 166);
+}
+
+.language{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-right: 15%;
+}
+
+.nxt{
+    background: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    color: gray;
+    font-size: 14px;
+    cursor: pointer;
+
+    margin: 0px;
+    padding: 0px 0px 60px 5px;
+}
+
+a{
+    color: gary;
+    text-decoration: none;
+}
+
+a:visited{
+    color: gray;
+}
+a:hover{
+    color: gray;
+    text-decoration: underline;
+
+}
+.sam{
+    text-decoration: underline;
+}
+.sam:hover{
+    text-decoration: underline;
+}
