@@ -1,4 +1,4 @@
-### Instagram UI Clone – Frontend Web Development
+### Instagram Signup UI Clone – Frontend Web Development
 
 **Technologies:** HTML5, CSS
 
