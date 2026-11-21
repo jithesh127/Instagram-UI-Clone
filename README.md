@@ -1,5 +1,7 @@
 ### Instagram Signup UI Clone – Frontend Web Development
 
+Educational UI Clone – Not affiliated with Instagram
+
 **Technologies:** HTML5, CSS
 
 - Developed a responsive Instagram-inspired user interface using HTML and CSS.
