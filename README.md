@@ -1,13 +1,25 @@
-### Instagram Signup UI Clone – Frontend Web Development
+# Instagram-Inspired Sign-Up UI | HTML & CSS
 
-Educational UI Clone – Not affiliated with Instagram
+A frontend practice project recreating an Instagram-inspired sign-up interface for learning layout and styling.
 
-**Technologies:** HTML5, CSS
+> Educational UI exercise only. Not affiliated with or endorsed by Instagram. This page does not provide Instagram authentication.
 
-- Developed a responsive Instagram-inspired user interface using HTML and CSS.
-- Recreated the Instagram signup page with a clean and visually appealing layout.
-- Designed input fields for username, email/mobile number, password, and full name.
-- Implemented CSS styling for buttons, fonts, colors, spacing, and alignment.
-- Added Instagram-style branding, navigation links, and login/signup options.
-- Used CSS Flexbox and layout properties to organize page elements.
-- Focused on maintaining a user-friendly design and consistent visual appearance.
+## Built With
+HTML5 · CSS3
+
+## Highlights
+- Signup form layout with name, email/mobile, and password fields
+- CSS styling for spacing, typography, colors, and alignment
+- Flexbox-based page layout
+- Login and signup navigation elements
+
+## Run Locally
+1. Clone or download this repository.
+2. Open the project folder.
+3. Open the HTML entry page in your browser.
+
+## Scope
+Static frontend reproduction; it does not connect to Instagram or process real account credentials.
+
+---
+Created by **Jithesh D** · [GitHub](https://github.com/jithesh127)
